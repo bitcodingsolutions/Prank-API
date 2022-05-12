@@ -1,7 +1,23 @@
 {
 	"records": [{
 			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%203/Music/effect.mp3?ra"
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%204/Music/sound_one.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%204/Music/sound_stop.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%204/Music/sound_three.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%204/Music/sound_two.mp3?raw=true"
+			}
 		}
-		]
+	]
 }
