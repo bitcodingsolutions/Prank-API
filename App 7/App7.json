@@ -1,1 +1,65 @@
-
+{
+	"records": [{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/adventure.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/base.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/doge_zero.mp3?raw=true"
+			}
+		},
+		    
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/dramatic.mp3?raw=true"
+			}
+		},
+		    {
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/dubstep.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/rap.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/seduction.mp3?raw=true"
+			}
+		},
+		    
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/simple.mp3?raw=true"
+			}
+		},
+		    {
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/singing.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/special_remix.mp3?raw=true"
+			}
+		},
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/trap.mp3?raw=true"
+			}
+		},
+		    
+		{
+			"fields": {
+				"Links": "https://github.com/pkbitcoding/Prank-API/blob/main/App%207/Music/wow.mp3?raw=true"
+			}
+		}	]
+}
