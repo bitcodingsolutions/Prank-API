@@ -13,9 +13,9 @@
         "is_banner_ads": true
       },
       "settigs": {
-        "share_url": "",
-        "rate_url": "",
-        "privacy_policy": ""
+        "share_url": "https://play.google.com/store/apps/details?id=com.mikanse.airhorn",
+        "rate_url": "https://play.google.com/store/apps/details?id=com.apus.airhorn",
+        "privacy_policy": "https://tenoku.com/air-horn-privacy-policy.html"
       }
     },
   "records": [
