@@ -1,235 +1,243 @@
 {
-	"records": [{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/anthem_usa.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/anthem_ussr.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/beethoven.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/car.mp3?raw=true"
-			}
-		},
-		    {
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/century_fox.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/disney.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/epic_sax_guy.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/fail.mp3?raw=true"
-			}
-		},
-		    {
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/fur_elise.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/g_string.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/give_up.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/give_you_up.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/gme_of_w33d.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/gummy_bear.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/happy_birthday.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/iluminati_confirmed.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/jingle_bells.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/jurassic_park.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/let_it_go.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/little_einsteins.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/long.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/longer.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/loop_serious.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/loop_sharp.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/mayro_bors.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/mlg.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/moonlight_sonata.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/multiple.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/number_one.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/number_one.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/nyan.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/sad_violin.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/ship.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/shooting_stars.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/siren.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/smoke_everyday.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/spain_anthem.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/spooky.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/tdfw.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/tetris.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/titanic.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/uk_anthem.mp3?raw=true"
-			}
-		},
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/universal.mp3?raw=true"
-			}
-		},
-		    
-		{
-			"fields": {
-				"Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/uptown_funk.mp3?raw=true"
-			}
-		}
-
-	]
+  "records": [
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/anthem_usa.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/anthem_ussr.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/beethoven.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/car.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/century_fox.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/disney.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/epic_sax_guy.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/fail.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/fur_elise.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/g_string.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/give_up.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/give_you_up.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/gme_of_w33d.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/gummy_bear.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/happy_birthday.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/iluminati_confirmed.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/jingle_bells.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/jurassic_park.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/let_it_go.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/little_einsteins.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/long.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/longer.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/loop_serious.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/loop_sharp.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/mayro_bors.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/mlg.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/moonlight_sonata.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/multiple.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/number_one.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/number_one.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/nyan.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/sad_violin.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/ship.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/shooting_stars.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/siren.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/smoke_everyday.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/spain_anthem.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/spooky.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/tdfw.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/tetris.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/titanic.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/uk_anthem.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/universal.mp3?raw=true"
+      }
+    },
+    {
+      "fields": {
+        "Links": "https://github.com/pkbitcoding/Prank-App-Music-1/blob/main/uptown_funk.mp3?raw=true"
+      }
+    },
+    {
+      "google_ads": {
+        "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+        "is_banner_ads": true
+      },
+      "custom_ads": {
+        "qureka_link": "https://490.go.qureka.com/intro/question",
+        "is_quraka_banner": true
+      },
+      "app_lovin": {
+        "id_unit_banner": "829960d01e6b4631",
+        "is_banner_ads": true
+      },
+      "settigs": {
+        "share_url": "",
+        "rate_url": "",
+        "privacy_policy": ""
+      }
+    }
+  ]
 }
