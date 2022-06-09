@@ -15,7 +15,7 @@
 			"interstitial_ad_time_interval": 0
 		},
 		"app_update": {
-			"is_popup_dialog": false,
+			"is_popup_dialog": true,
 			"is_update_require": false,
 			"package_id": "com.yoyolive.llc",
 			"website_url": "playstore url",
