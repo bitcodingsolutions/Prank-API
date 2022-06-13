@@ -32,13 +32,13 @@
 		"rate_app": {
 			"is_rate_app": true,
 			"package_id": "com.yoyolive.llc",
-			"rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+			"rate_app_url": "https://play.google.com/store/apps/details?id=com.airhorn.sounds.pranks",
 			"rate_message": "Please Rate us and promote us."
 		},
 		"share_app": {
 			"is_share_app": true,
 			"share_title": "Share link url :",
-			"share_message": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc"
+			"share_message": "Enjoy Prank Horn sound app from : https://play.google.com/store/apps/details?id=com.airhorn.sounds.pranks"
 		},
 		"privacy_policy": {
 			"is_privacy_policy": true,
