@@ -15,8 +15,8 @@
 			"interstitial_ad_time_interval": 30
 		},
 		"app_update": {
-			"is_popup_dialog": false,
-			"is_update_require": false,
+			"is_popup_dialog": true,
+			"is_update_require": true,
 			"package_id": "com.yoyolive.llc",
 			"website_url": "playstore url",
 			"is_system_browser": true,
@@ -31,7 +31,7 @@
 		},
 		"rate_app": {
 			"is_rate_app": true,
-			"package_id": "com.yoyolive.llc",
+			"package_id": "com.airhorn.sounds.pranks",
 			"rate_app_url": "https://play.google.com/store/apps/details?id=com.airhorn.sounds.pranks",
 			"rate_message": "Please Rate us and promote us."
 		},
@@ -43,12 +43,12 @@
 		"privacy_policy": {
 			"is_privacy_policy": true,
 			"is_system_browser": true,
-			"privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
+			"privacy_policy": "https://pages.flycricket.io/https-tenoku-com-a/privacy.html"
 		},
 		"terms_of_use": {
 			"is_terms_of_use": true,
 			"is_system_browser": true,
-			"terms_of_use": "https://yoyolive.github.io/tc.html"
+			"terms_of_use": "https://pages.flycricket.io/https-tenoku-com-a/privacy.html"
 		},
 		"error_report": {
 			"is_error_report_support": true,
@@ -57,10 +57,10 @@
 		"feedback_support": {
 			"is_feedback_support": true,
 			"email_id": "mailto:snakebar@gmail.com",
-			"feedback_title": "Feedback on YOYO Live",
-			"feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
-			"email_subject": "Feedback on YOYO Live",
-			"email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
+			"feedback_title": "Feedback on Vidchat Live",
+			"feedback_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:",
+			"email_subject": "Feedback on Vidchat Live",
+			"email_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:"
 		},
 		"google_ads": {
 			"banner_ad_unit_id_android": "/6499/example/banner",
