@@ -52,14 +52,14 @@
 		},
 		"error_report": {
 			"is_error_report_support": true,
-			"email_id": "mailto:abc@gmail.com"
+			"email_id": "mailto:alfaapps.inc@gmail.com"
 		},
 		"feedback_support": {
 			"is_feedback_support": true,
-			"email_id": "mailto:snakebar@gmail.com",
-			"feedback_title": "Feedback on Vidchat Live",
-			"feedback_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:",
-			"email_subject": "Feedback on Vidchat Live",
+			"email_id": "mailto:alfaapps.inc@gmail.com",
+			"feedback_title": "Feedback on Air Horn Siren Sounds : Prank",
+			"feedback_message": "Hi,\n\n\nYour FeedbackAir Horn Siren Sounds : Prank Live! I would like to give you some feedback:",
+			"email_subject": "Feedback onAir Horn Siren Sounds : Prank Live",
 			"email_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:"
 		},
 		"google_ads": {
