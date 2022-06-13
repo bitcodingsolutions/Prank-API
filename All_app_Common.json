@@ -17,12 +17,12 @@
 		"app_update": {
 			"is_popup_dialog": true,
 			"is_update_require": true,
-			"package_id": "com.yoyolive.llc",
+			"package_id": "com.airhorn.sounds.pranks",
 			"website_url": "playstore url",
 			"is_system_browser": true,
 			"updated_version_code": 2,
 			"title": "App Update",
-			"default_message": "Your App is Up to date."
+			"default_message": "Your App needs an Update."
 		},
 		"exit_dialog": {
 			"is_exit_require": true,
