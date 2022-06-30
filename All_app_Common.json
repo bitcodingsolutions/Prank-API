@@ -1,16 +1,16 @@
 {
   "com.airhorn.sounds.pranks": {
    	 "ads_sequence": [
-	 	 
+	 	  "google_ads"
 	 ],
    	 "more_app_url": "",
    	 "extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
    	 "ad_setting": {
-   	   "is_full_ads": false,
+   	   "is_full_ads": true,
    	 	  "onesignal_id": "9bdc6ccb-6417-4bc0-b33d-42b6064cc199",
     	  "ads_loading_text": "Ads will loading...",
-      	"global_intra_interval_click": 3,
-      	"interstitial_ad_time_interval": 30
+      	"global_intra_interval_click": 1,
+      	"interstitial_ad_time_interval": 0
  	   },
  	   "app_update": {
    	   "is_popup_dialog": false,
@@ -70,17 +70,17 @@
    	   "email_message": "Hi,\n\n\nYour Feedback Air Horn Siren Sounds ! I would like to give you some feedback:"
   	  },
  	   "google_ads": {
-  	    "banner_ad_unit_id_android": "/6499/example/banner",
-   	   "interstitial_ad_unit_id_android": "/6499/example/interstitial",
-  	    "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+  	    "banner_ad_unit_id_android": "ca-app-pub-9446439099248724/5108773093",
+   	   "interstitial_ad_unit_id_android": "ca-app-pub-9446439099248724/7543364744",
+  	    "app_open_ad_unit_id_android": "ca-app-pub-9446439099248724/6721237668",
    	   "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
     	  "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
     	  "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     	  "is_banner_ads": true,
    	   "is_open_ads": true,
    	   "is_interstitial_ads": true,
-   	   "is_rewared_ads": true,
-   	   "is_native_ads": true,
+   	   "is_rewared_ads": false,
+   	   "is_native_ads": false,
    	   "no_of_click_interstitial": 1
  	   },
 	    "custom_ads": {
